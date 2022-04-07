@@ -2,6 +2,8 @@ package com.example.cryptoratesapp.data.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
+import com.example.cryptoratesapp.data.network.ApiFactory.BASE_IMAGE_URL
+import com.example.cryptoratesapp.utils.convertTimestampToTime
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName
 
