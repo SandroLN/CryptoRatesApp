@@ -2,7 +2,6 @@ package com.example.cryptoratesapp.data.network
 
 import com.example.cryptoratesapp.data.network.model.CoinInfoJsonContainerDto
 import com.example.cryptoratesapp.data.network.model.CoinNamesListDto
-import io.reactivex.Single
 import retrofit2.http.GET
 import retrofit2.http.Query
 
