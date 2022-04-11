@@ -4,10 +4,8 @@ import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import androidx.lifecycle.ViewModelProvider
 import com.example.cryptoratesapp.R
 import com.example.cryptoratesapp.databinding.ActivityCoinDetailBinding
-import com.squareup.picasso.Picasso
 
 class CoinDetailActivity : AppCompatActivity() {
 

@@ -4,7 +4,6 @@ import android.content.Context
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.ListAdapter
-import androidx.recyclerview.widget.RecyclerView
 import com.example.cryptoratesapp.R
 import com.example.cryptoratesapp.databinding.ItemCoinInfoBinding
 import com.example.cryptoratesapp.domain.CoinInfo

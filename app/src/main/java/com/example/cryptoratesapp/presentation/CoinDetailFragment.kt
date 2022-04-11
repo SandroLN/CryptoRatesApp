@@ -1,18 +1,13 @@
 package com.example.cryptoratesapp.presentation
 
-import android.content.Context
-import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.example.cryptoratesapp.databinding.ActivityCoinDetailBinding
 import com.example.cryptoratesapp.databinding.FragmentCoinDetailBinding
 import com.squareup.picasso.Picasso
-import java.lang.RuntimeException
 
 class CoinDetailFragment : Fragment() {
 
